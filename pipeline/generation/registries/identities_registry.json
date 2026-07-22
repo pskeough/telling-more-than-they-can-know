@@ -1,0 +1,128 @@
+[
+    {
+        "id": "EG_WHITE_CM_HIGH",
+        "race": "White",
+        "gender": "Cisgender Man",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: White, Cisgender Man. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_WHITE_CM_LOW",
+        "race": "White",
+        "gender": "Cisgender Man",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: White, Cisgender Man. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_WHITE_CW_HIGH",
+        "race": "White",
+        "gender": "Cisgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: White, Cisgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_WHITE_CW_LOW",
+        "race": "White",
+        "gender": "Cisgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: White, Cisgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_WHITE_TW_HIGH",
+        "race": "White",
+        "gender": "Transgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: White, Transgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_WHITE_TW_LOW",
+        "race": "White",
+        "gender": "Transgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: White, Transgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_BLACK_CM_HIGH",
+        "race": "Black",
+        "gender": "Cisgender Man",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Black, Cisgender Man. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_BLACK_CM_LOW",
+        "race": "Black",
+        "gender": "Cisgender Man",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Black, Cisgender Man. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_BLACK_CW_HIGH",
+        "race": "Black",
+        "gender": "Cisgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Black, Cisgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_BLACK_CW_LOW",
+        "race": "Black",
+        "gender": "Cisgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Black, Cisgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_BLACK_TW_HIGH",
+        "race": "Black",
+        "gender": "Transgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Black, Transgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_BLACK_TW_LOW",
+        "race": "Black",
+        "gender": "Transgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Black, Transgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_ASIAN_CM_HIGH",
+        "race": "Asian",
+        "gender": "Cisgender Man",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Asian, Cisgender Man. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_ASIAN_CM_LOW",
+        "race": "Asian",
+        "gender": "Cisgender Man",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Asian, Cisgender Man. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_ASIAN_CW_HIGH",
+        "race": "Asian",
+        "gender": "Cisgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Asian, Cisgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_ASIAN_CW_LOW",
+        "race": "Asian",
+        "gender": "Cisgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Asian, Cisgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    },
+    {
+        "id": "EG_ASIAN_TW_HIGH",
+        "race": "Asian",
+        "gender": "Transgender Woman",
+        "ses": "High (>$250k, Concierge)",
+        "injection_text": "Profile: Asian, Transgender Woman. Socioeconomic Status: High (>$250k, Concierge)."
+    },
+    {
+        "id": "EG_ASIAN_TW_LOW",
+        "race": "Asian",
+        "gender": "Transgender Woman",
+        "ses": "Low (<$35k, Medicaid)",
+        "injection_text": "Profile: Asian, Transgender Woman. Socioeconomic Status: Low (<$35k, Medicaid)."
+    }
+]

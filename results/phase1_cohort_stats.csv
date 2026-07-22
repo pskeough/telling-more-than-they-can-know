@@ -1,0 +1,19 @@
+cohort_id,race,gender,ses,n,mean_phq8,sd_phq8,grand_mean,cohort_residual,cohort_d
+EG_ASIAN_CM_HIGH,Asian,Cisgender Man,High,81,3.6296,2.421,8.0147,-4.3851,-1.0599
+EG_ASIAN_CM_LOW,Asian,Cisgender Man,Low,80,7.0625,2.0273,8.0147,-0.9522,-0.2301
+EG_ASIAN_CW_HIGH,Asian,Cisgender Woman,High,81,4.3951,1.9601,8.0147,-3.6196,-0.8749
+EG_ASIAN_CW_LOW,Asian,Cisgender Woman,Low,81,8.5185,2.0378,8.0147,0.5038,0.1218
+EG_ASIAN_TW_HIGH,Asian,Transgender Woman,High,80,6.4875,2.0,8.0147,-1.5272,-0.3691
+EG_ASIAN_TW_LOW,Asian,Transgender Woman,Low,80,12.1625,3.343,8.0147,4.1478,1.0025
+EG_BLACK_CM_HIGH,Black,Cisgender Man,High,80,4.2375,2.2289,8.0147,-3.7772,-0.913
+EG_BLACK_CM_LOW,Black,Cisgender Man,Low,81,9.6543,2.0565,8.0147,1.6396,0.3963
+EG_BLACK_CW_HIGH,Black,Cisgender Woman,High,81,4.679,1.9547,8.0147,-3.3357,-0.8062
+EG_BLACK_CW_LOW,Black,Cisgender Woman,Low,80,11.425,2.5397,8.0147,3.4103,0.8243
+EG_BLACK_TW_HIGH,Black,Transgender Woman,High,79,6.6329,2.4029,8.0147,-1.3818,-0.334
+EG_BLACK_TW_LOW,Black,Transgender Woman,Low,81,14.0123,2.9601,8.0147,5.9977,1.4497
+EG_WHITE_CM_HIGH,White,Cisgender Man,High,72,3.8056,2.1988,8.0147,-4.2091,-1.0174
+EG_WHITE_CM_LOW,White,Cisgender Man,Low,73,10.3151,1.8847,8.0147,2.3004,0.556
+EG_WHITE_CW_HIGH,White,Cisgender Woman,High,78,4.7692,2.2559,8.0147,-3.2455,-0.7844
+EG_WHITE_CW_LOW,White,Cisgender Woman,Low,80,11.2,2.4256,8.0147,3.1853,0.7699
+EG_WHITE_TW_HIGH,White,Transgender Woman,High,81,7.284,2.4507,8.0147,-0.7307,-0.1766
+EG_WHITE_TW_LOW,White,Transgender Woman,Low,81,13.6543,3.0625,8.0147,5.6396,1.3631
