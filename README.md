@@ -11,10 +11,10 @@ reveal or conceal the demographic drivers of their psychiatric-instrument scorin
 
 - **The bias is large and real:** across 18 intersectional cohorts, low-SES vignettes score
   **5.78 PHQ-8 points higher** than high-SES (Cohen's *d* = 1.95, *p* < .001). Variance
-  decomposition attributes **48.75% of score variance to SES** — versus 2.22% to which model
+  decomposition attributes **48.75% of score variance to SES**, versus 2.22% to which model
   generated the score.
 - **The explanations conceal it:** in feature-attribution explanations, models credit SES with
-  only ~5–24% of the score — a **feature-attribution inversion** against the ~49% it actually
+  only ~5–24% of the score: a **feature-attribution inversion** against the ~49% it actually
   drives. Demographics are *named* but not *weighted*.
 - **Honest instrument caveats, disclosed up front:** the fairwashing rubric (A4) is unvalidated
   and SES-confounded; judge coverage is 19.2% of explanations; judge-dependent tables use a
