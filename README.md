@@ -38,7 +38,7 @@ corrections applied during self-audit (including a full 3-vote re-judge of the p
 ## Context
 
 Paper 3 of a four-part research line auditing LLM behavior in clinical-psychological
-simulation ([PsychBench](https://arxiv.org/abs/2604.17359) → Explanation Gap → mechanistic
+simulation ([Plausible Patients, Impossible Populations](https://arxiv.org/abs/2604.17359) → Explanation Gap → mechanistic
 follow-ups). Program index: [Research_Collection_Patrick_Keough](https://github.com/pskeough/Research_Collection_Patrick_Keough).
 
 ## Authorship note
